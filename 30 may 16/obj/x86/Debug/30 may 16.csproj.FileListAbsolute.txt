@@ -1,0 +1,4 @@
+C:\Users\dell1234\Desktop\30 may 16\30 may 16\bin\Debug\30 may 16.exe
+C:\Users\dell1234\Desktop\30 may 16\30 may 16\bin\Debug\30 may 16.pdb
+C:\Users\dell1234\Desktop\30 may 16\30 may 16\obj\x86\Debug\30 may 16.exe
+C:\Users\dell1234\Desktop\30 may 16\30 may 16\obj\x86\Debug\30 may 16.pdb
